@@ -16,7 +16,7 @@
 
 メインに使っているキューブ:
 
-2x2: GAN251 M Leap Stickerless(UVじゃない方)
+2x2: GAN251 M Leap Stickerless(UVじゃない方)(予定)
 
 3x3: XMD Tornado V3 Pionner
 
