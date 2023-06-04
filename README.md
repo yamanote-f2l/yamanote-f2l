@@ -18,8 +18,8 @@ HTML & CSS Developer
 
 メインに使っているキューブ:
 
-2x2: GAN251 M Leap Stickerless(UVじゃない方)(予定)
+2x2: QiYi MS
 
-3x3: XMD Tornado V3 Pionner
+3x3: XMD Tornado V3 Pionner & Moyu Weilong WRM V9 Maglev + BallCore UV Coated
 
-4x4: ???
+4x4: YJ ZhiLong mini M
