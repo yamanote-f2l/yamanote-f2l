@@ -1,5 +1,7 @@
 ### Yamanote_F2L
 
+## 日本語
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oredaaaaaaa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oredaaaaaaa&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oredaaaaaaa&theme=github_dark)
@@ -18,8 +20,12 @@ HTML & CSS Developer
 
 メインに使っているキューブ:
 
-2x2: QiYi MS
+2x2: GAN 251 M Leap UV(未購入)
 
-3x3: XMD Tornado V3 Pionner & Moyu Weilong WRM V9 Maglev + BallCore UV Coated
+3x3: XMD Tornado V3 Pionner UV
 
-4x4: YJ ZhiLong mini M
+4x4: Moyu Aosu WR M(未購入)
+
+skewb: GAN skewb Enhenced UV
+
+square-1: MGC
