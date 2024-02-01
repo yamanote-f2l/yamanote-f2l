@@ -30,5 +30,7 @@ square-1: MGC
 
 ## SNS
 X(Twitter): https://x.com/gancube_
+
 Github: https://github.com/oredaaaaaaa/
+
 Website: https://oredaaaaaaa.github.io/
