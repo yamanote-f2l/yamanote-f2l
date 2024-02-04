@@ -29,7 +29,7 @@ skewb: GAN skewb Enhenced UV
 square-1: MGC
 
 ## SNS
-X(Twitter): https://x.com/gancube_
+X(Twitter): [https://x.com/gancube_](https://twitter.com/gancube_)
 
 Github: https://github.com/oredaaaaaaa/
 
