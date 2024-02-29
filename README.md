@@ -18,9 +18,9 @@ HTML & CSS,Java Developer
 
 メインに使っているキューブ:
 
-2x2: GAN 251 M Leap UV(未購入)
+2x2: Qiyi MS Cube
 
-3x3: GAN 12 Maglev UV(購入予定)
+3x3: GAN 12 Maglev UV
 
 4x4: Moyu Aosu WR M(未購入)
 
