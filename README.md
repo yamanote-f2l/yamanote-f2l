@@ -22,7 +22,7 @@ HTML & CSS,Java Developer
 
 3x3: GAN 12 Maglev UV
 
-4x4: Moyu Aosu WR M(未購入)
+4x4: Qiyi MS Cube
 
 skewb: GAN skewb Enhenced UV
 
