@@ -8,7 +8,7 @@
 
 スピードキューバー兼プログラマーです。
 
-HTML & CSS,Java Developer
+HTML & CSS,Java and Linux Developer
 
 年齢:永遠の16歳
 
