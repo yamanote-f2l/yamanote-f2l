@@ -2,8 +2,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamanote-f2l&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamanote-f2l&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamanote-f2l&theme=github_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamanote-f2l&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamanote-f2l&theme=github_dark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamanote-f2l&theme=github_dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yamanote-f2l&theme=github_dark&utcOffset=8) 
 
 スピードキューバー兼プログラマーです。
@@ -30,6 +30,8 @@ square-1: MGC
 
 ## SNS
 X(Twitter): [https://x.com/gancube_](https://twitter.com/gancube_)
+
+X(Twitter)サブ: [https://x.com/gancube_](https://twitter.com/Y_F2LLinux)
 
 Github: https://github.com/oredaaaaaaa/
 
